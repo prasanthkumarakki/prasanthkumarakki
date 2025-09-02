@@ -40,7 +40,7 @@
 
 ## 🌐 Connect with Me
 - 📧 Email: [prasanthakkireddi6@gmail.com](mailto:prasanthakkireddi6@gmail.com)  
-- 🔗 LinkedIn: *(Add your LinkedIn profile link here)*  
+- 🔗 LinkedIn: *(https://www.linkedin.com/in/prasanth-kumar-akkireddi-45b083315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*  
 
 ---
 
