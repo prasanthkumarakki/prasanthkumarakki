@@ -1,16 +1,47 @@
 ## Hi there 👋
+# Hi there 👋, I'm Prasanth Kumar Akkireddi  
 
-<!--
-**prasanthkumarakki/prasanthkumarakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering student at **Raghu Engineering College** (2022–2026)  
+📊 CGPA: 8.88/10 (till now)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about **VLSI Design, Digital Systems, and Embedded Systems**  
+- Exploring **AES Implementation on PYNQ Board** (Ongoing Project)  
+- Completed mini projects on:
+  - ✅ Synchronous FIFO  
+  - ✅ Asynchronous FIFO  
+  - ✅ Traffic Lights using IC555  
+
+---
+
+## 🏆 Certifications
+- NPTEL: *System Design through Verilog* & *Principles of Signals and Systems*  
+- MATLAB: *MATLAB Onramp*  
+- Udemy: *PCB Design in Cadence*  
+- IEEE: *IEEEXtreme 18.0 Participation*  
+- Simplilearn: *Product Management Basics*  
+
+---
+
+## 📚 Trainings
+- VLSI Design with HDL Code Concept (6 weeks)  
+- SQL Basics (Skillrack – 2 months)  
+
+---
+
+## 💻 Skills
+- **Programming:** Python, C, VHDL, Verilog (Beginner), HTML, CSS  
+- **Tools:** MATLAB, Cadence, Vivado  
+- **Soft Skills:** Problem Solving, Adaptability, Presentation, Leadership  
+
+---
+
+## 🌐 Connect with Me
+- 📧 Email: [prasanthakkireddi6@gmail.com](mailto:prasanthakkireddi6@gmail.com)  
+- 🔗 LinkedIn: *(Add your LinkedIn profile link here)*  
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to check out my repositories for projects and codes I’m working on.*  
